@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>crms11__Apply_Account_Discount_to_Account_Group__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <description>If Account Group is populated, permit the Account Discount to be applied to its associated Matrix Price Adjustments.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>If Account Group is populated, permit the Account Discount to be applied to its associated Matrix Price Adjustments.</inlineHelpText>
+    <label>Apply Account Discount to Account Group</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Checkbox</type>
+</CustomField>

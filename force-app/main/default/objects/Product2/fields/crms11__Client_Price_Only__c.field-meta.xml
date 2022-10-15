@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>crms11__Client_Price_Only__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <description>This Product may only appear in Flexpricer search results for the specified Accounts that have valid Contracted Prices for this Product.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>This Product may only appear in Flexpricer search results for the specified Accounts that have valid Contracted Prices for this Product.</inlineHelpText>
+    <label>Contracted Prices Required</label>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

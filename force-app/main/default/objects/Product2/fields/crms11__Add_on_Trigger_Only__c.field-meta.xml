@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>crms11__Add_on_Trigger_Only__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <description>Selection of this product will trigger add-ons and will not add this product as a line item</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Selection of this product will trigger add-ons and will not add this product as a line item</inlineHelpText>
+    <label>Add-on Trigger Only</label>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

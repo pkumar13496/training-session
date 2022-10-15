@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>crms11__Contribution__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Contribution calculates margin on sale, (As UnitPrice - Unit_Cost__c)</description>
+    <externalId>false</externalId>
+    <formula>IF($Setup.crms11__FlexPricer_Settings__c.crms11__Disable_Contribution_Calculation__c, IF(  ISNULL(crms11__Unit_Cost__c), NULL , TotalPrice  - ( Quantity  * crms11__Unit_Cost__c ) ), NULL)</formula>
+    <inlineHelpText>Contribution calculates margin on sale</inlineHelpText>
+    <label>Contribution</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>2</scale>
+    <type>Currency</type>
+</CustomField>

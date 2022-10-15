@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>DoctorCompactLayout</fullName>
+    <fields>Doctor_ID__c</fields>
+    <fields>Name</fields>
+    <fields>Blood_Group__c</fields>
+    <fields>Date_Of_Brith__c</fields>
+    <fields>Email__c</fields>
+    <fields>Gender__c</fields>
+    <fields>Mobile__c</fields>
+    <fields>Total_Patient_Recovered__c</fields>
+    <fields>Years_of_Experience__c</fields>
+    <label>DoctorCompactLayout</label>
+</CompactLayout>

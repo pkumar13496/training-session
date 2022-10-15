@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>crms11__Add_on_Discount__c</fullName>
+    <deprecated>false</deprecated>
+    <description>It is used to store the add on discount applied to the add-on product.</description>
+    <externalId>false</externalId>
+    <label>Add-on Discount</label>
+    <precision>7</precision>
+    <required>false</required>
+    <scale>4</scale>
+    <type>Percent</type>
+</CustomField>

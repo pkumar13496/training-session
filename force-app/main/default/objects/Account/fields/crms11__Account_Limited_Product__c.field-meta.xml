@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>crms11__Account_Limited_Product__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Permits only those Products with valid Contracted Price records to be selected on Opportunities and Quotes using Flexpricer® Vision Interface.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Permits only those Products with valid Contracted Price records to be selected on Opportunities and Quotes using Flexpricer® Vision Interface.</inlineHelpText>
+    <label>Contracted Prices Required</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Client Pricing</fullName>
+                <default>false</default>
+                <label>Contracted Only</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

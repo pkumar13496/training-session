@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>X_Ray_Type__c</fullName>
+    <externalId>false</externalId>
+    <label>X-Ray  Type</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <controllingField>Test_Type__c</controllingField>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>CX Spine</fullName>
+                <default>false</default>
+                <label>CX Spine</label>
+            </value>
+            <value>
+                <fullName>D-L Spine</fullName>
+                <default>false</default>
+                <label>D-L Spine</label>
+            </value>
+            <value>
+                <fullName>L-S Spine</fullName>
+                <default>false</default>
+                <label>L-S Spine</label>
+            </value>
+            <value>
+                <fullName>PBH</fullName>
+                <default>false</default>
+                <label>PBH</label>
+            </value>
+            <value>
+                <fullName>Chest AP</fullName>
+                <default>false</default>
+                <label>Chest AP</label>
+            </value>
+            <value>
+                <fullName>Shoulder</fullName>
+                <default>false</default>
+                <label>Shoulder</label>
+            </value>
+            <value>
+                <fullName>Arm</fullName>
+                <default>false</default>
+                <label>Arm</label>
+            </value>
+            <value>
+                <fullName>Elbow</fullName>
+                <default>false</default>
+                <label>Elbow</label>
+            </value>
+            <value>
+                <fullName>Fore Arm</fullName>
+                <default>false</default>
+                <label>Fore Arm</label>
+            </value>
+            <value>
+                <fullName>Wrist</fullName>
+                <default>false</default>
+                <label>Wrist</label>
+            </value>
+            <value>
+                <fullName>Hand</fullName>
+                <default>false</default>
+                <label>Hand</label>
+            </value>
+            <value>
+                <fullName>Skull</fullName>
+                <default>false</default>
+                <label>Skull</label>
+            </value>
+            <value>
+                <fullName>Hip</fullName>
+                <default>false</default>
+                <label>Hip</label>
+            </value>
+            <value>
+                <fullName>Thigh</fullName>
+                <default>false</default>
+                <label>Thigh</label>
+            </value>
+            <value>
+                <fullName>Knee</fullName>
+                <default>false</default>
+                <label>Knee</label>
+            </value>
+            <value>
+                <fullName>Leg</fullName>
+                <default>false</default>
+                <label>Leg</label>
+            </value>
+            <value>
+                <fullName>Ankle</fullName>
+                <default>false</default>
+                <label>Ankle</label>
+            </value>
+            <value>
+                <fullName>Foot</fullName>
+                <default>false</default>
+                <label>Foot</label>
+            </value>
+            <value>
+                <fullName>Heel</fullName>
+                <default>false</default>
+                <label>Heel</label>
+            </value>
+        </valueSetDefinition>
+        <valueSettings>
+            <controllingFieldValue>X-Ray</controllingFieldValue>
+            <valueName>CX Spine</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>X-Ray</controllingFieldValue>
+            <valueName>D-L Spine</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>X-Ray</controllingFieldValue>
+            <valueName>L-S Spine</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>X-Ray</controllingFieldValue>
+            <valueName>PBH</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>X-Ray</controllingFieldValue>
+            <valueName>Chest AP</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>X-Ray</controllingFieldValue>
+            <valueName>Shoulder</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>X-Ray</controllingFieldValue>
+            <valueName>Arm</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>X-Ray</controllingFieldValue>
+            <valueName>Elbow</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>X-Ray</controllingFieldValue>
+            <valueName>Fore Arm</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>X-Ray</controllingFieldValue>
+            <valueName>Wrist</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>X-Ray</controllingFieldValue>
+            <valueName>Hand</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>X-Ray</controllingFieldValue>
+            <valueName>Skull</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>X-Ray</controllingFieldValue>
+            <valueName>Hip</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>X-Ray</controllingFieldValue>
+            <valueName>Thigh</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>X-Ray</controllingFieldValue>
+            <valueName>Knee</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>X-Ray</controllingFieldValue>
+            <valueName>Leg</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>X-Ray</controllingFieldValue>
+            <valueName>Ankle</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>X-Ray</controllingFieldValue>
+            <valueName>Foot</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>X-Ray</controllingFieldValue>
+            <valueName>Heel</valueName>
+        </valueSettings>
+    </valueSet>
+    <visibleLines>4</visibleLines>
+</CustomField>

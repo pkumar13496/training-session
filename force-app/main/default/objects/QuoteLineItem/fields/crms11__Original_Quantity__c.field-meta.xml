@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>crms11__Original_Quantity__c</fullName>
+    <deprecated>false</deprecated>
+    <description>For products that are part of the bundle this field hold the original quantity of the product that is offered is the customer selects a single quantity of the Bundle Product</description>
+    <externalId>false</externalId>
+    <inlineHelpText>For products that are part of the bundle this field hold the original quantity of the product that is offered is the customer selects a single quantity of the Bundle Product</inlineHelpText>
+    <label>Bundle Quantity Multiple</label>
+    <precision>11</precision>
+    <required>false</required>
+    <scale>2</scale>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

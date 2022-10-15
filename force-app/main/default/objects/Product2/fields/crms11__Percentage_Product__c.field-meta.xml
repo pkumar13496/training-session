@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>crms11__Percentage_Product__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <description>Used for percentage pricing feature.</description>
+    <externalId>false</externalId>
+    <label>Percentage Product</label>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

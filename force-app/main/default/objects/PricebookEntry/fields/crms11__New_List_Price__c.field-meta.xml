@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>crms11__New_List_Price__c</fullName>
+    <deprecated>false</deprecated>
+    <externalId>false</externalId>
+    <formula>IF( NOT(ISBLANK(crms11__New_List_Price_Currency__c)),
+   crms11__New_List_Price_Currency__c,
+   IF(NOT(ISBLANK(crms11__New_List_Price_Percentage__c)), 
+      UnitPrice  * (1+crms11__New_List_Price_Percentage__c) ,
+       UnitPrice
+)
+)</formula>
+    <label>New List Price</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>2</scale>
+    <trackHistory>false</trackHistory>
+    <type>Currency</type>
+</CustomField>

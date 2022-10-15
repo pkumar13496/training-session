@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>crms11__Recreate_Billing_Journals__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <description>Force the Billing Journal records associated with this Contract to be recalculated and recreated</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Force the Billing Journal records associated with this Contract to be recalculated and recreated</inlineHelpText>
+    <label>Recreate Billing Journals</label>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

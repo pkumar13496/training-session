@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>crms11__Total_Billing__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The sum of the Billing / Billing Journal records associated with this Contract</description>
+    <externalId>false</externalId>
+    <inlineHelpText>The sum of the Billing / Billing Journal records associated with this Contract</inlineHelpText>
+    <label>Total Billing</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>8</scale>
+    <trackHistory>false</trackHistory>
+    <type>Currency</type>
+</CustomField>

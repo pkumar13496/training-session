@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>crms11__Quantity_Z__c</fullName>
+    <deprecated>false</deprecated>
+    <description>User Entered Quantity Rate Multiplier 2</description>
+    <externalId>false</externalId>
+    <inlineHelpText>User Entered Quantity Rate Multiplier 2</inlineHelpText>
+    <label>Quantity Z</label>
+    <precision>11</precision>
+    <required>false</required>
+    <scale>2</scale>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

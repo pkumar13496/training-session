@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Other_Test__c</fullName>
+    <externalId>false</externalId>
+    <label>Other Test</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>AEC</fullName>
+                <default>true</default>
+                <label>AEC</label>
+            </value>
+            <value>
+                <fullName>AMH</fullName>
+                <default>false</default>
+                <label>AMH</label>
+            </value>
+            <value>
+                <fullName>ANA-17 Profile</fullName>
+                <default>false</default>
+                <label>ANA-17 Profile</label>
+            </value>
+            <value>
+                <fullName>Anti CCP</fullName>
+                <default>false</default>
+                <label>Anti CCP</label>
+            </value>
+            <value>
+                <fullName>AP TT</fullName>
+                <default>false</default>
+                <label>AP TT</label>
+            </value>
+            <value>
+                <fullName>ASO Titre (Antistreptolysion)</fullName>
+                <default>false</default>
+                <label>ASO Titre (Antistreptolysion)</label>
+            </value>
+            <value>
+                <fullName>Beta HCG</fullName>
+                <default>false</default>
+                <label>Beta HCG</label>
+            </value>
+            <value>
+                <fullName>Biopsy Small</fullName>
+                <default>false</default>
+                <label>Biopsy Small</label>
+            </value>
+            <value>
+                <fullName>Blood Coagulation Profile</fullName>
+                <default>false</default>
+                <label>Blood Coagulation Profile</label>
+            </value>
+            <value>
+                <fullName>Blood Group</fullName>
+                <default>false</default>
+                <label>Blood Group</label>
+            </value>
+            <value>
+                <fullName>Blood Sugar (RBS Blood Glucose)</fullName>
+                <default>false</default>
+                <label>Blood Sugar (RBS Blood Glucose)</label>
+            </value>
+            <value>
+                <fullName>Blood Urea</fullName>
+                <default>false</default>
+                <label>Blood Urea</label>
+            </value>
+            <value>
+                <fullName>BT / CT</fullName>
+                <default>false</default>
+                <label>BT / CT</label>
+            </value>
+            <value>
+                <fullName>CBC</fullName>
+                <default>false</default>
+                <label>CBC</label>
+            </value>
+            <value>
+                <fullName>CPK MB</fullName>
+                <default>false</default>
+                <label>CPK MB</label>
+            </value>
+            <value>
+                <fullName>CRP</fullName>
+                <default>false</default>
+                <label>CRP</label>
+            </value>
+            <value>
+                <fullName>CRP (Quantitative)</fullName>
+                <default>false</default>
+                <label>CRP (Quantitative)</label>
+            </value>
+            <value>
+                <fullName>Dengue NS1 Antibody</fullName>
+                <default>false</default>
+                <label>Dengue NS1 Antibody</label>
+            </value>
+            <value>
+                <fullName>E.S.R.</fullName>
+                <default>false</default>
+                <label>E.S.R.</label>
+            </value>
+            <value>
+                <fullName>ECG</fullName>
+                <default>false</default>
+                <label>ECG</label>
+            </value>
+            <value>
+                <fullName>FSH</fullName>
+                <default>false</default>
+                <label>FSH</label>
+            </value>
+            <value>
+                <fullName>GTT</fullName>
+                <default>false</default>
+                <label>GTT</label>
+            </value>
+            <value>
+                <fullName>Haemoglobin HB</fullName>
+                <default>false</default>
+                <label>Haemoglobin HB</label>
+            </value>
+            <value>
+                <fullName>HbA1c</fullName>
+                <default>false</default>
+                <label>HbA1c</label>
+            </value>
+            <value>
+                <fullName>HbsAg</fullName>
+                <default>false</default>
+                <label>HbsAg</label>
+            </value>
+            <value>
+                <fullName>HCV</fullName>
+                <default>false</default>
+                <label>HCV</label>
+            </value>
+            <value>
+                <fullName>HDL Cholestrol</fullName>
+                <default>false</default>
+                <label>HDL Cholestrol</label>
+            </value>
+            <value>
+                <fullName>HIV</fullName>
+                <default>false</default>
+                <label>HIV</label>
+            </value>
+            <value>
+                <fullName>HLA B27</fullName>
+                <default>false</default>
+                <label>HLA B27</label>
+            </value>
+            <value>
+                <fullName>ICT</fullName>
+                <default>false</default>
+                <label>ICT</label>
+            </value>
+            <value>
+                <fullName>IUI</fullName>
+                <default>false</default>
+                <label>IUI</label>
+            </value>
+            <value>
+                <fullName>LDL Cholesterol</fullName>
+                <default>false</default>
+                <label>LDL Cholesterol</label>
+            </value>
+            <value>
+                <fullName>LFT</fullName>
+                <default>false</default>
+                <label>LFT</label>
+            </value>
+            <value>
+                <fullName>LH</fullName>
+                <default>false</default>
+                <label>LH</label>
+            </value>
+            <value>
+                <fullName>LH, FSH, Prolection</fullName>
+                <default>false</default>
+                <label>LH, FSH, Prolection</label>
+            </value>
+            <value>
+                <fullName>Lipid Profile</fullName>
+                <default>false</default>
+                <label>Lipid Profile</label>
+            </value>
+            <value>
+                <fullName>MP (Smer Malaria)</fullName>
+                <default>false</default>
+                <label>MP (Smer Malaria)</label>
+            </value>
+            <value>
+                <fullName>pep Smer</fullName>
+                <default>false</default>
+                <label>pep Smer</label>
+            </value>
+            <value>
+                <fullName>Prolectin</fullName>
+                <default>false</default>
+                <label>Prolectin</label>
+            </value>
+            <value>
+                <fullName>PT-INR</fullName>
+                <default>false</default>
+                <label>PT-INR</label>
+            </value>
+            <value>
+                <fullName>Pus-Culture</fullName>
+                <default>false</default>
+                <label>Pus-Culture</label>
+            </value>
+            <value>
+                <fullName>RA-Factor</fullName>
+                <default>false</default>
+                <label>RA-Factor</label>
+            </value>
+            <value>
+                <fullName>RA-Factor (Quantitative)</fullName>
+                <default>false</default>
+                <label>RA-Factor (Quantitative)</label>
+            </value>
+            <value>
+                <fullName>RFT</fullName>
+                <default>false</default>
+                <label>RFT</label>
+            </value>
+            <value>
+                <fullName>Semen Analysis</fullName>
+                <default>false</default>
+                <label>Semen Analysis</label>
+            </value>
+            <value>
+                <fullName>Semen IVI</fullName>
+                <default>false</default>
+                <label>Semen IVI</label>
+            </value>
+            <value>
+                <fullName>Serum Amylase</fullName>
+                <default>false</default>
+                <label>Serum Amylase</label>
+            </value>
+            <value>
+                <fullName>Serum Bilirubin</fullName>
+                <default>false</default>
+                <label>Serum Bilirubin</label>
+            </value>
+            <value>
+                <fullName>Serum Calcium</fullName>
+                <default>false</default>
+                <label>Serum Calcium</label>
+            </value>
+            <value>
+                <fullName>Serum Cholestrol</fullName>
+                <default>false</default>
+                <label>Serum Cholestrol</label>
+            </value>
+            <value>
+                <fullName>Serum Creatinine</fullName>
+                <default>false</default>
+                <label>Serum Creatinine</label>
+            </value>
+            <value>
+                <fullName>Serum Electrolyte</fullName>
+                <default>false</default>
+                <label>Serum Electrolyte</label>
+            </value>
+            <value>
+                <fullName>Serum Protine</fullName>
+                <default>false</default>
+                <label>Serum Protine</label>
+            </value>
+            <value>
+                <fullName>Serum Triglyceride</fullName>
+                <default>false</default>
+                <label>Serum Triglyceride</label>
+            </value>
+            <value>
+                <fullName>Serum Uric Acid</fullName>
+                <default>false</default>
+                <label>Serum Uric Acid</label>
+            </value>
+            <value>
+                <fullName>Serum Widal</fullName>
+                <default>false</default>
+                <label>Serum Widal</label>
+            </value>
+            <value>
+                <fullName>SGOT</fullName>
+                <default>false</default>
+                <label>SGOT</label>
+            </value>
+            <value>
+                <fullName>SGPT</fullName>
+                <default>false</default>
+                <label>SGPT</label>
+            </value>
+            <value>
+                <fullName>T3 T4</fullName>
+                <default>false</default>
+                <label>T3 T4</label>
+            </value>
+            <value>
+                <fullName>T3 T4 TSH</fullName>
+                <default>false</default>
+                <label>T3 T4 TSH</label>
+            </value>
+            <value>
+                <fullName>Troponine I</fullName>
+                <default>false</default>
+                <label>Troponine I</label>
+            </value>
+            <value>
+                <fullName>Troponine T</fullName>
+                <default>false</default>
+                <label>Troponine T</label>
+            </value>
+            <value>
+                <fullName>TSH</fullName>
+                <default>false</default>
+                <label>TSH</label>
+            </value>
+            <value>
+                <fullName>Typhidot</fullName>
+                <default>false</default>
+                <label>Typhidot</label>
+            </value>
+            <value>
+                <fullName>UPT (Urine Pregnency Test)</fullName>
+                <default>false</default>
+                <label>UPT (Urine Pregnency Test)</label>
+            </value>
+            <value>
+                <fullName>Urine Albumin</fullName>
+                <default>false</default>
+                <label>Urine Albumin</label>
+            </value>
+            <value>
+                <fullName>Urine Bilirubin BS/BP</fullName>
+                <default>false</default>
+                <label>Urine Bilirubin BS/BP</label>
+            </value>
+            <value>
+                <fullName>Urine Culture</fullName>
+                <default>false</default>
+                <label>Urine Culture</label>
+            </value>
+            <value>
+                <fullName>Urine Ketones</fullName>
+                <default>false</default>
+                <label>Urine Ketones</label>
+            </value>
+            <value>
+                <fullName>Urine Routine (Examinition)</fullName>
+                <default>false</default>
+                <label>Urine Routine (Examinition)</label>
+            </value>
+            <value>
+                <fullName>Urine Sugar</fullName>
+                <default>false</default>
+                <label>Urine Sugar</label>
+            </value>
+            <value>
+                <fullName>VDRL</fullName>
+                <default>false</default>
+                <label>VDRL</label>
+            </value>
+            <value>
+                <fullName>Vitamin B12</fullName>
+                <default>false</default>
+                <label>Vitamin B12</label>
+            </value>
+            <value>
+                <fullName>Vitamin D</fullName>
+                <default>false</default>
+                <label>Vitamin D</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>4</visibleLines>
+</CustomField>

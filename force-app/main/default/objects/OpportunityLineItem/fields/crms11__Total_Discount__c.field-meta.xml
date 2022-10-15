@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>crms11__Total_Discount__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Total applied discount including custom discount and standard discount. Based on the list price.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Total applied discount to original list price.</inlineHelpText>
+    <label>Total Discount</label>
+    <precision>7</precision>
+    <required>false</required>
+    <scale>4</scale>
+    <type>Percent</type>
+</CustomField>

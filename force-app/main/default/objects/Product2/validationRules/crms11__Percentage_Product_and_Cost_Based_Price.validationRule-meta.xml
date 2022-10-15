@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>crms11__Percentage_Product_and_Cost_Based_Price</fullName>
+    <active>true</active>
+    <errorConditionFormula>AND ( crms11__Percentage_Product__c == true,  NOT (ISBLANK( TEXT(crms11__Cost_Based_Pricing__c) ) ) )</errorConditionFormula>
+    <errorMessage>Cost-Based Pricing and Percentage Pricing cannot be enabled at the same time</errorMessage>
+</ValidationRule>
